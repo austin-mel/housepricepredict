@@ -140,7 +140,7 @@ The VGG16 image-only model reports $52,982 training RMSE and $184,235 validation
 
 The notebook does not report MAE, R-squared, confidence intervals, or error by price band.
 
-## Use Limits
+## Limitations
 
 Use this project for learning, model comparison, and rough research only. Do not use the model for appraisal, lending, insurance, tax, legal, or high-stakes housing decisions.
 
